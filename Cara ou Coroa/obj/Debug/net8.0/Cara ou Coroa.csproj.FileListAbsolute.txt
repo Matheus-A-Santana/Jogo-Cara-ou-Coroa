@@ -1,0 +1,15 @@
+C:\Users\mathe\Documents\Repositórios\Jogo-Cara-ou-Coroa\Cara ou Coroa\bin\Debug\net8.0\Cara ou Coroa.exe
+C:\Users\mathe\Documents\Repositórios\Jogo-Cara-ou-Coroa\Cara ou Coroa\bin\Debug\net8.0\Cara ou Coroa.deps.json
+C:\Users\mathe\Documents\Repositórios\Jogo-Cara-ou-Coroa\Cara ou Coroa\bin\Debug\net8.0\Cara ou Coroa.runtimeconfig.json
+C:\Users\mathe\Documents\Repositórios\Jogo-Cara-ou-Coroa\Cara ou Coroa\bin\Debug\net8.0\Cara ou Coroa.dll
+C:\Users\mathe\Documents\Repositórios\Jogo-Cara-ou-Coroa\Cara ou Coroa\bin\Debug\net8.0\Cara ou Coroa.pdb
+C:\Users\mathe\Documents\Repositórios\Jogo-Cara-ou-Coroa\Cara ou Coroa\obj\Debug\net8.0\Cara ou Coroa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Documents\Repositórios\Jogo-Cara-ou-Coroa\Cara ou Coroa\obj\Debug\net8.0\Cara ou Coroa.AssemblyInfoInputs.cache
+C:\Users\mathe\Documents\Repositórios\Jogo-Cara-ou-Coroa\Cara ou Coroa\obj\Debug\net8.0\Cara ou Coroa.AssemblyInfo.cs
+C:\Users\mathe\Documents\Repositórios\Jogo-Cara-ou-Coroa\Cara ou Coroa\obj\Debug\net8.0\Cara ou Coroa.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\Repositórios\Jogo-Cara-ou-Coroa\Cara ou Coroa\obj\Debug\net8.0\Cara ou Coroa.sourcelink.json
+C:\Users\mathe\Documents\Repositórios\Jogo-Cara-ou-Coroa\Cara ou Coroa\obj\Debug\net8.0\Cara ou Coroa.dll
+C:\Users\mathe\Documents\Repositórios\Jogo-Cara-ou-Coroa\Cara ou Coroa\obj\Debug\net8.0\refint\Cara ou Coroa.dll
+C:\Users\mathe\Documents\Repositórios\Jogo-Cara-ou-Coroa\Cara ou Coroa\obj\Debug\net8.0\Cara ou Coroa.pdb
+C:\Users\mathe\Documents\Repositórios\Jogo-Cara-ou-Coroa\Cara ou Coroa\obj\Debug\net8.0\Cara ou Coroa.genruntimeconfig.cache
+C:\Users\mathe\Documents\Repositórios\Jogo-Cara-ou-Coroa\Cara ou Coroa\obj\Debug\net8.0\ref\Cara ou Coroa.dll

@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathe\\Documents\\Projetos\\Jogo Cara ou Coroa\\Cara ou Coroa\\Cara ou Coroa.csproj": {}
+    "c:\\Users\\mathe\\Documents\\Repositórios\\Jogo-Cara-ou-Coroa\\Cara ou Coroa\\Cara ou Coroa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathe\\Documents\\Projetos\\Jogo Cara ou Coroa\\Cara ou Coroa\\Cara ou Coroa.csproj": {
+    "c:\\Users\\mathe\\Documents\\Repositórios\\Jogo-Cara-ou-Coroa\\Cara ou Coroa\\Cara ou Coroa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\Documents\\Projetos\\Jogo Cara ou Coroa\\Cara ou Coroa\\Cara ou Coroa.csproj",
+        "projectUniqueName": "c:\\Users\\mathe\\Documents\\Repositórios\\Jogo-Cara-ou-Coroa\\Cara ou Coroa\\Cara ou Coroa.csproj",
         "projectName": "Cara ou Coroa",
-        "projectPath": "C:\\Users\\mathe\\Documents\\Projetos\\Jogo Cara ou Coroa\\Cara ou Coroa\\Cara ou Coroa.csproj",
+        "projectPath": "c:\\Users\\mathe\\Documents\\Repositórios\\Jogo-Cara-ou-Coroa\\Cara ou Coroa\\Cara ou Coroa.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\Documents\\Projetos\\Jogo Cara ou Coroa\\Cara ou Coroa\\obj\\",
+        "outputPath": "c:\\Users\\mathe\\Documents\\Repositórios\\Jogo-Cara-ou-Coroa\\Cara ou Coroa\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
