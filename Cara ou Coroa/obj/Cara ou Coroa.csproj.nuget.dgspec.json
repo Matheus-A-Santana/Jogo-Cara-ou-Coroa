@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mathe\\Documents\\Repositórios\\Jogo-Cara-ou-Coroa\\Cara ou Coroa\\Cara ou Coroa.csproj": {}
+    "C:\\Users\\mathe\\documents\\Repositórios\\Jogo-Cara-ou-Coroa\\Cara ou Coroa\\Cara ou Coroa.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mathe\\Documents\\Repositórios\\Jogo-Cara-ou-Coroa\\Cara ou Coroa\\Cara ou Coroa.csproj": {
+    "C:\\Users\\mathe\\documents\\Repositórios\\Jogo-Cara-ou-Coroa\\Cara ou Coroa\\Cara ou Coroa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mathe\\Documents\\Repositórios\\Jogo-Cara-ou-Coroa\\Cara ou Coroa\\Cara ou Coroa.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\documents\\Repositórios\\Jogo-Cara-ou-Coroa\\Cara ou Coroa\\Cara ou Coroa.csproj",
         "projectName": "Cara ou Coroa",
-        "projectPath": "c:\\Users\\mathe\\Documents\\Repositórios\\Jogo-Cara-ou-Coroa\\Cara ou Coroa\\Cara ou Coroa.csproj",
+        "projectPath": "C:\\Users\\mathe\\documents\\Repositórios\\Jogo-Cara-ou-Coroa\\Cara ou Coroa\\Cara ou Coroa.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mathe\\Documents\\Repositórios\\Jogo-Cara-ou-Coroa\\Cara ou Coroa\\obj\\",
+        "outputPath": "C:\\Users\\mathe\\documents\\Repositórios\\Jogo-Cara-ou-Coroa\\Cara ou Coroa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"
